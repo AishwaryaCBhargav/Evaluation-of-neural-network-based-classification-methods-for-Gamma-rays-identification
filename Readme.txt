@@ -1,7 +1,4 @@
 
-
-* Readme.txt, 
-
 * A folder named SVM_MATLABfiles that contains the following:
 	1. SVM_Test_BestModel.m file. This is the script to be run by you for SVM.	
 
@@ -22,11 +19,4 @@
 	4. TestData.mat file contains the test data that has been loaded into the MLP model.
 
 	5. best_model.mat file contains the best model that has been loaded into the MLP model.
-
-	
-* NC Coursework Self/Peer assessment in text format and 
-
-* Report named ÔNeuralComputing_Coursework_ReportÕ in pdf format. 
-
-The MATLAB code needs MATLAB version MATLAB_R2018b to execute and produce results.
 
